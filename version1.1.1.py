@@ -250,7 +250,7 @@ def feedback(event, command, *args):
     return '送信が完了しました'
 
 def version(*args):
-    return 'version 1.1.0'
+    return 'version 1.1.1'
 
 
 def admin(event, command, namelist, data):
