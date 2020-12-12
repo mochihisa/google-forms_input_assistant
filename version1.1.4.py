@@ -251,7 +251,7 @@ def feedback(event, command, *args):
 
 
 def version(*args):
-    return 'version 1.1.2'
+    return 'version 1.1.4'
 
 
 def admin(event, command, namelist, data):
